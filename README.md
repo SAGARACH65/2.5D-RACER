@@ -1,6 +1,6 @@
 # 2.5D-RACER
 
-Live Demo:
+Live Demo for the game:
 
 <https://sagarach65.github.io/js-experiments/JS-Racer/>
 
